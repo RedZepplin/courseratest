@@ -1,0 +1,24 @@
+{
+  "name": "courseratest",
+  "version": "1.0.0",
+  "description": "Training Enviroment",
+  "main": "./site/index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "test": "npm run lite",
+    "lite": "lite-server --baseDir=\"mod2_solution\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedZepplin/courseratest.git"
+  },
+  "author": "Juan Hanekom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RedZepplin/courseratest/issues"
+  },
+  "homepage": "https://github.com/RedZepplin/courseratest#readme"
+}
