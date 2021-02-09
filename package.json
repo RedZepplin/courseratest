@@ -5,11 +5,14 @@
   "main": "./site/index.html",
   "dependencies": {},
   "devDependencies": {
+    "bootstrap": "^5.0.0-beta1",
     "lite-server": "^2.6.1"
   },
   "scripts": {
     "test": "npm run lite",
-    "lite": "lite-server --baseDir=\"mod2_solution\" "
+    "lite": "lite-server",
+    "mod2": "lite-server --baseDir=\"mod2_solution\" ",
+    "mod3": "lite-server --baseDir=\"mod3_solution\" "
   },
   "repository": {
     "type": "git",
