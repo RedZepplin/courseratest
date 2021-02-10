@@ -9,6 +9,4 @@
             helloSpeaker.speak(names[i]);
         }
     }
-
-
 })(window);

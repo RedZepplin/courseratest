@@ -13,7 +13,8 @@
     "lite": "lite-server",
     "mod2": "lite-server --baseDir=\"mod2_solution\" ",
     "mod3": "lite-server --baseDir=\"mod3_solution\" ",
-    "mod4": "lite-server --baseDir=\"mod4_solution\" "
+    "mod4": "lite-server --baseDir=\"mod4_solution\" ",
+    "mod5": "lite-server --baseDir=\"mod5_solution\" "
   },
   "repository": {
     "type": "git",
